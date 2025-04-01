@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\metodospago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\metodospago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:metodospago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\variablescom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\variablescom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:variablescom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -62,8 +62,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -86,8 +90,7 @@
               "RelativeToolTip": "MetodosPago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:30:53.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T04:30:53.561Z"
             },
             {
               "$type": "Document",
@@ -99,8 +102,7 @@
               "RelativeToolTip": "VariablesCom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:30:46.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T04:30:46.919Z"
             },
             {
               "$type": "Document",
@@ -112,8 +114,7 @@
               "RelativeToolTip": "Carrito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:29:38.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T04:29:38.499Z"
             },
             {
               "$type": "Document",
@@ -125,8 +126,7 @@
               "RelativeToolTip": "Form13.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAcwDAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:15.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T04:23:15.81Z"
             },
             {
               "$type": "Document",
@@ -137,8 +137,7 @@
               "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form13.cs [Design]",
               "RelativeToolTip": "Form13.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:16.028Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-16T04:23:16.028Z"
             },
             {
               "$type": "Document",
@@ -180,8 +179,7 @@
               "RelativeToolTip": "Form9.cs*",
               "ViewState": "AgIAACUAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:16.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T04:23:16.036Z"
             },
             {
               "$type": "Document",
@@ -192,8 +190,7 @@
               "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form9.cs [Design]*",
               "RelativeToolTip": "Form9.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:16.037Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-16T04:23:16.037Z"
             },
             {
               "$type": "Document",

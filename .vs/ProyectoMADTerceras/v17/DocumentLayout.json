@@ -3,56 +3,68 @@
   "WorkspaceRootPath": "F:\\Codigos Progra\\ProyectoMADTerceras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\bd.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:bd.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\metodospago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:metodospago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\variablescom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:variablescom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|F:\\Codigos Progra\\ProyectoMADTerceras\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|f:\\codigos progra\\proyectomadterceras\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3FD656-8010-41F9-998A-5A96B3D4574C}|ProyectoMADTerceras.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,120 +74,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BD.xsd",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\BD.xsd",
-              "RelativeDocumentMoniker": "BD.xsd",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\BD.xsd",
-              "RelativeToolTip": "BD.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-02-16T04:33:13.671Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Form12.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form12.cs",
+              "RelativeDocumentMoniker": "Form12.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form12.cs [Design]",
+              "RelativeToolTip": "Form12.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:09:47.068Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MetodosPago.cs",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\MetodosPago.cs",
-              "RelativeDocumentMoniker": "MetodosPago.cs",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\MetodosPago.cs",
-              "RelativeToolTip": "MetodosPago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form11.cs",
+              "RelativeDocumentMoniker": "Form11.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form11.cs [Design]",
+              "RelativeToolTip": "Form11.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:30:53.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VariablesCom.cs",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\VariablesCom.cs",
-              "RelativeDocumentMoniker": "VariablesCom.cs",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\VariablesCom.cs",
-              "RelativeToolTip": "VariablesCom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:30:46.919Z"
+              "WhenOpened": "2025-04-01T21:09:46.276Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Carrito.cs",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Carrito.cs",
-              "RelativeDocumentMoniker": "Carrito.cs",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Carrito.cs",
-              "RelativeToolTip": "Carrito.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form14.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form14.cs",
+              "RelativeDocumentMoniker": "Form14.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form14.cs [Design]",
+              "RelativeToolTip": "Form14.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:29:38.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form13.cs",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form13.cs",
-              "RelativeDocumentMoniker": "Form13.cs",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form13.cs",
-              "RelativeToolTip": "Form13.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAcwDAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:15.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form13.cs [Design]",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form13.cs",
-              "RelativeDocumentMoniker": "Form13.cs",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form13.cs [Design]",
-              "RelativeToolTip": "Form13.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:16.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form18.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form18.cs",
-              "RelativeDocumentMoniker": "Form18.cs",
-              "ToolTip": "E:\\Codigos Progra\\ProyectoMADTerceras\\Form18.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-02-16T04:23:16.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form19.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form19.cs",
-              "RelativeDocumentMoniker": "Form19.cs",
-              "ToolTip": "E:\\Codigos Progra\\ProyectoMADTerceras\\Form19.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-02-16T04:23:16.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form17.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form17.cs",
-              "RelativeDocumentMoniker": "Form17.cs",
-              "ToolTip": "E:\\Codigos Progra\\ProyectoMADTerceras\\Form17.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-02-16T04:23:16.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form9.cs",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form9.cs",
-              "RelativeDocumentMoniker": "Form9.cs",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form9.cs*",
-              "RelativeToolTip": "Form9.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:16.036Z"
+              "WhenOpened": "2025-04-01T21:09:43.422Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -183,30 +118,158 @@
               "Title": "Form9.cs [Design]",
               "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form9.cs",
               "RelativeDocumentMoniker": "Form9.cs",
-              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form9.cs [Design]*",
-              "RelativeToolTip": "Form9.cs [Design]*",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form9.cs [Design]",
+              "RelativeToolTip": "Form9.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:23:16.037Z"
+              "WhenOpened": "2025-04-01T21:09:37.965Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form10.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form10.cs",
-              "RelativeDocumentMoniker": "Form10.cs",
-              "ToolTip": "E:\\Codigos Progra\\ProyectoMADTerceras\\Form10.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-02-16T04:23:16.038Z"
+              "DocumentIndex": 6,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:09:35.834Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:09:34.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:09:25.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form15.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form15.cs",
+              "RelativeDocumentMoniker": "Form15.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form15.cs [Design]",
+              "RelativeToolTip": "Form15.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:05:46.187Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Form5.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form5.cs",
-              "RelativeDocumentMoniker": "Form5.cs",
-              "ToolTip": "E:\\Codigos Progra\\ProyectoMADTerceras\\Form5.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-02-16T04:23:16.039Z"
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:04:54.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form10.cs",
+              "RelativeDocumentMoniker": "Form10.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form10.cs [Design]",
+              "RelativeToolTip": "Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:23:16.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:04:53.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:04:42.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form13.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form13.cs",
+              "RelativeDocumentMoniker": "Form13.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form13.cs [Design]",
+              "RelativeToolTip": "Form13.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:23:16.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:04:44.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:04:09.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "F:\\Codigos Progra\\ProyectoMADTerceras\\Form6.cs [Design]",
+              "RelativeToolTip": "Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:03:37.68Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
