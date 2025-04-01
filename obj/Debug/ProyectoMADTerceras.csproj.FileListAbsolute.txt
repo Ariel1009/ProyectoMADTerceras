@@ -1,0 +1,85 @@
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.exe.config
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.exe
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.pdb
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.AssemblyReference.cache
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form1.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form2.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Properties.Resources.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.GenerateResource.cache
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.CoreCompileInputs.cache
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.exe
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.pdb
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form3.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form4.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form5.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form6.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form7.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form8.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form9.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form10.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form11.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form12.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form13.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form14.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form15.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form16.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form17.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form18.resources
+C:\Users\ofeli\source\repos\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form19.resources
+E:\Codigos Progra\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.exe.config
+E:\Codigos Progra\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.exe
+E:\Codigos Progra\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.pdb
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.AssemblyReference.cache
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.SuggestedBindingRedirects.cache
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form1.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form10.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form11.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form12.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form13.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form14.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form15.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form16.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form17.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form18.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form19.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form2.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form3.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form4.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form5.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form6.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form7.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form8.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form9.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Properties.Resources.resources
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.GenerateResource.cache
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.CoreCompileInputs.cache
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.exe
+E:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.pdb
+F:\Codigos Progra\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.exe.config
+F:\Codigos Progra\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.exe
+F:\Codigos Progra\ProyectoMADTerceras\bin\Debug\ProyectoMADTerceras.pdb
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.AssemblyReference.cache
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form1.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form10.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form11.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form12.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form13.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form14.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form15.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form16.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form17.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form18.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form19.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form2.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form3.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form4.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form5.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form6.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form7.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form8.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Form9.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.Properties.Resources.resources
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.GenerateResource.cache
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.csproj.CoreCompileInputs.cache
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.exe
+F:\Codigos Progra\ProyectoMADTerceras\obj\Debug\ProyectoMADTerceras.pdb
